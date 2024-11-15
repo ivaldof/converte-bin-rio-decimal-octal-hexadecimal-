@@ -34,6 +34,7 @@ public class Main {
            
 
 2. Decimal para Binário:
+
 import java.util.Scanner;
 public class Main
 {
@@ -50,6 +51,7 @@ public class Main
             
 
 3. Binário para Octal:
+
 import java.util.Scanner;
 
 public class Main {
@@ -79,6 +81,7 @@ public class Main {
             
 
 4. Octal para Binário:
+
 import java.util.Scanner;
 
 public class Main {
@@ -109,6 +112,7 @@ public class Main {
             
 
 5. Decimal para Octal:
+
 import java.util.Scanner;
 
 public class Main {
@@ -126,6 +130,7 @@ public class Main {
             
 
 6. Octal para Decimal:
+
 import java.util.Scanner;
 
 public class Main {
@@ -142,6 +147,7 @@ public class Main {
            
 
 7. Hexadecimal para Decimal:
+
 import java.util.Scanner;
 
 public class Main {
@@ -159,6 +165,7 @@ public class Main {
             
 
 8. Decimal para Hexadecimal:
+
 import java.util.Scanner;
 
 public class Main {
@@ -178,6 +185,7 @@ public class Main {
             
 
 9. Binário para Hexadecimal:
+
 import java.util.Scanner;
 
 public class Main {
@@ -199,6 +207,7 @@ public class Main {
            
 
 10. Hexadecimal para Binário:
+
 import java.util.Scanner;
 
 public class Main {
@@ -218,6 +227,7 @@ public class Main {
 }
 
 11. de todos para todos:
+
 import java.util.Scanner;
 
 public class Main {
